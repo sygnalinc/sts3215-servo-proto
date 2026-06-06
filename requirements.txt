@@ -1,0 +1,2 @@
+scservo_sdk
+pyserial
