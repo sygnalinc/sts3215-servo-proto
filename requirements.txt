@@ -1,2 +1,2 @@
-scservo_sdk
+ftservo-python-sdk
 pyserial
